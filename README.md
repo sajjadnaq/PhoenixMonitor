@@ -1,4 +1,4 @@
-# PhoenixMonitor v0,1
+# PhoenixMonitor v0.1
 Real-time process network monitor and threat analyzer for Windows
 <div align="center">
 
